@@ -1,16 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab9e3d37-1203-4018-bfc0-07d1bc89dff6" name="Changes" comment="" />
+    <list default="true" id="ab9e3d37-1203-4018-bfc0-07d1bc89dff6" name="Changes" comment="12.03.2026/1">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonForStudents.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonForStudents.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.16.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.17.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.23.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.31.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/10.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/10.9.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "def-inter"
+  }
 }]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e3c8be24-ce0a-46c6-b4aa-9ae9910c6057" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/def-inter/PythonForStudents.git",
+    "accountId": "e3c8be24-ce0a-46c6-b4aa-9ae9910c6057"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3Afv2EVl1hvzBCp1j8K5oGyaAbV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,7 +69,45 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.10.1.executor": "Run",
+    "Python.10.11.executor": "Run",
+    "Python.10.12.executor": "Run",
+    "Python.10.13.executor": "Run",
+    "Python.10.16.executor": "Run",
+    "Python.10.17.executor": "Run",
+    "Python.10.2.executor": "Run",
+    "Python.10.23.executor": "Run",
+    "Python.10.3.executor": "Run",
+    "Python.10.31.executor": "Run",
+    "Python.10.5.executor": "Run",
+    "Python.10.7.executor": "Run",
+    "Python.10.8.executor": "Run",
+    "Python.10.9.executor": "Run",
+    "Python.9.1.executor": "Run",
+    "Python.9.12.executor": "Run",
+    "Python.9.13-1.executor": "Run",
+    "Python.9.13-2.executor": "Run",
+    "Python.9.14.executor": "Run",
+    "Python.9.15.executor": "Run",
+    "Python.9.16.executor": "Run",
+    "Python.9.17.executor": "Run",
+    "Python.9.19.executor": "Run",
+    "Python.9.2.executor": "Run",
+    "Python.9.23.executor": "Run",
+    "Python.9.25.executor": "Run",
+    "Python.9.3.executor": "Run",
+    "Python.9.5.executor": "Run",
+    "Python.9.6.executor": "Run",
+    "Python.ex1.executor": "Run",
+    "Python.ex19.executor": "Run",
+    "Python.ex2.executor": "Run",
+    "Python.ex23.executor": "Run",
+    "Python.ex25.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
